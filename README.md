@@ -26,10 +26,10 @@
 To get a local copy follow these simple example steps.  
 
 1.- Open the terminal window and clone the repository using this command:  
-`git clone git@github.com:VicPeralta/leaderboard.git` 
+`git clone git@github.com:VicPeralta/starGazers.git` 
 
 2.- Change the directory to the leaderboard directory  
-`cd leaderboard`  
+`cd starGazers`  
 3.- Install the project's dependencies by running this command:   
 `npm install`  
 4.- Generate the dist folder using this command:  

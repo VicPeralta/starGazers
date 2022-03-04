@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LeaderBoard</title>
+  </head>
+  <body class="bg-dark color-white">
+    <h1 class="text-center">Leaderboard</h1>
+    <div class="flex space-around wrap main-container">
+      <section class="recent-scores section">
+        <div class="flex align-center wrap">
+          <div class="flex align-center">
+            <p>User</p>
+            <input
+              type="text"
+              id="user"
+              name="user"
+              value="VicPeralta"
+              placeholder="GitHub ID"
+              required
+            />
+          </div>
+          <button role="button" id="update-btn" class="button-danger">Update</button>
+          <div class="flex space-around">
+            <p>Select repo</p>
+            <select name="repos" id="repos"></select>
+          </div>
+        </div>
+        <span class="hidden color-white" id="message">Updating data...</span>
+        <div>
+          <div id="score-container" class="grid"></div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
