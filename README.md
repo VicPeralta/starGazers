@@ -36,7 +36,7 @@ To get a local copy follow these simple example steps.
 `npm run build`  
 5.- Open the file `.\dist\index.html` to see the Web Page  
 6.- To see the code open the project in the code editor of your preference.  
-7.- To learn about the Leaderscore API, please check this [documentation](https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).
+7.- To learn about the Leaderscore API, please check this [documentation](https://docs.github.com/en/rest).
 
 
 ## Author
@@ -53,7 +53,7 @@ Original idea:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/VicPeralta/to-Do-List/issues).
+Feel free to check the [issues page](https://github.com/VicPeralta/starGazers/issues).
 
 ## Show your support
 
