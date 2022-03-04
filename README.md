@@ -11,7 +11,7 @@
 - Javascript
 
 ## Live Demo
-[Live demo](https://vicperalta.github.io/leaderboard/)
+[Live demo](https://vicperalta.github.io/starGazers/)
 
 ## Mobile
 <img src="./mobile.png" width="50%" height="auto"/>
